@@ -1,0 +1,35 @@
+*{
+    color: rgb(29, 154, 154);
+}
+
+h1 {
+    color: red;
+    background-color: rebeccapurple;
+    text-align: center;
+}
+
+p{
+    color: palevioletred;
+    font-size: 30px;
+    text-align: center;
+}
+
+div {
+    background-color: rgb(138, 207, 138);
+    padding: 25px;
+    border: 5px dotted rgb(213, 188, 188);
+    margin: 30px;
+    font-family: 'EB Garamond', serif;
+}
+
+div > h4 {
+    background-color: darksalmon;
+    padding: 20px;
+    margin: 10px;
+    
+}
+
+img {
+    height: 200px;
+    
+}
